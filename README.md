@@ -60,10 +60,9 @@ Tailwind, Alpine, Laravel, and Livewire.
             width="36" height="36" alt="AlpineJS" /></a>
             <a href="https://livewire.laravel.com" target="_blank"
         rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/lucienversendaal/blob/main/icons/livewire.svg"
+            src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/livewire.svg"
             width="36" height="36" alt="Livewire" /></a>
 </p>
-
 
 ### Socials
 
