@@ -56,7 +56,7 @@ Tailwind, Alpine, Laravel, and Livewire.
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/alpinejs.svg"
             width="36" height="36" alt="AlpineJS" />
-             <a href="https://laravel.com/" target="_blank"
+             <a href="https://laravel.com" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
             width="36" height="36" alt="Laravel" /></a>
