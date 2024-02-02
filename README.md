@@ -57,11 +57,11 @@ Tailwind, Alpine, Laravel, and Livewire.
             <a href="https://alpinejs.dev/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/alpinejs.svg"
-            width="36" height="36" alt="AlpineJS" /></a>
+            width="64" height="64" alt="AlpineJS" /></a>
             <a href="https://livewire.laravel.com" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/livewire.svg"
-            width="36" height="36" alt="Livewire" /></a>
+            width="64" height="64" alt="Livewire" /></a>
 </p>
 
 ### Socials
@@ -98,9 +98,10 @@ Tailwind, Alpine, Laravel, and Livewire.
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-
-    <li style="display: inline-block; margin-right: 0.25rem;"><a
-            href="https://www.buymeacoffee.com/lucienversendaal"><img
-                src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a></li>
-
+<li style="display: inline-block; margin-right: 0.25rem;">
+<a
+href="https://www.buymeacoffee.com/lucienversendaal"><img
+src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+</a>
+</li>
 </ul>
