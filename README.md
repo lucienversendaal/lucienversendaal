@@ -57,11 +57,11 @@ Tailwind, Alpine, Laravel, and Livewire.
             <a href="https://alpinejs.dev/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/alpinejs.svg"
-            width="64" height="64" alt="AlpineJS" /></a>
+            width="128" height="128" alt="AlpineJS" /></a>
             <a href="https://livewire.laravel.com" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/livewire.svg"
-            width="64" height="64" alt="Livewire" /></a>
+            width="128" height="128" alt="Livewire" /></a>
 </p>
 
 ### Socials
