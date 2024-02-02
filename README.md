@@ -40,10 +40,8 @@ Tailwind, Alpine, Laravel, and Livewire.
             width="36" height="36" alt="Vite" /></a><a href="https://www.mysql.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-            width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
-            width="36" height="36" alt="Laravel" /></a><a href="https://apple.com" target="_blank"
+            width="36" height="36" alt="MySQL" /></a>
+            <a href="https://apple.com" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg"
             width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank"
@@ -57,8 +55,12 @@ Tailwind, Alpine, Laravel, and Livewire.
             <a href="https://alpinejs.dev/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/alpinejs.svg"
-            width="36" height="36" alt="AlpineJS" /></a>
-            <a href="https://livewire.laravel.com" target="_blank"
+            width="36" height="36" alt="AlpineJS" />
+             <a href="https://laravel.com/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
+            width="36" height="36" alt="Laravel" /></a>
+            </a><a href="https://livewire.laravel.com" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/livewire.svg"
             width="36" height="36" alt="Livewire" /></a>
