@@ -4,8 +4,8 @@ Lucien Versendaal
 
 ## TALL Stack Developer
 
-I am a passionate software developer at Marshmallow. My expertise lies in building web applications with the TALL stack:
-Tailwind, Alpine, Laravel, and Livewire.
+I'm a web developer, and big football fan from the Netherlands. Welcome to my github, your destination for innovative and robust web development solutions.
+With a specialization in Laravel, Livewire, AlpineJS, TailwindCSS, VueJs and Inertia I transform ideas into reality by creating dynamic and elegant web applications tailored to your specific needs.
 
 -   🌍  I'm based in Rotterdam
 -   🖥️  See my portfolio at [GitHub](http://github.com/lucienversendaal)
