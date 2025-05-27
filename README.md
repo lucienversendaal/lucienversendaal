@@ -10,7 +10,7 @@ Tailwind, Alpine, Laravel, and Livewire.
 -   🌍  I'm based in Rotterdam
 -   🖥️  See my portfolio at [GitHub](http://github.com/lucienversendaal)
 -   ✉️  You can contact me at [lucien@mediadier.nl](mailto:lucien@mediadier.nl)
--   🧠  I'm learning Livewire v3 and FilamentPHP
+-   🧠  I'm learning VueJs and Inertia
 
 ### Skills
 
