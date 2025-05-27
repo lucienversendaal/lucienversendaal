@@ -63,7 +63,10 @@ Tailwind, Alpine, Laravel, and Livewire.
             </a><a href="https://livewire.laravel.com" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/livewire.svg"
-            width="36" height="36" alt="Livewire" /></a>
+            width="36" height="36" alt="Livewire" /></a><a href="https://vuejs.org/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/vuejs.svg"
+            width="36" height="36" alt="Vuejs" /></a>
 </p>
 
 ### Socials
