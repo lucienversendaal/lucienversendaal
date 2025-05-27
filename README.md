@@ -66,7 +66,10 @@ Tailwind, Alpine, Laravel, and Livewire.
             width="36" height="36" alt="Livewire" /></a><a href="https://vuejs.org/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/vuejs.svg"
-            width="36" height="36" alt="Vuejs" /></a>
+            width="36" height="36" alt="Vuejs" /></a><a href="https://inertiajs.com/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/lucienversendaal/lucienversendaal/main/icons/inertiajs.svg"
+            width="36" height="36" alt="InertiaJS" /></a>
 </p>
 
 ### Socials
