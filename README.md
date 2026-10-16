@@ -9,8 +9,7 @@ With a specialization in Laravel, Livewire, AlpineJS, TailwindCSS, VueJs and Ine
 
 -   🌍  I'm based in Rotterdam
 -   🖥️  See my portfolio at [GitHub](http://github.com/lucienversendaal)
--   ✉️  You can contact me at [lucien@mediadier.nl](mailto:lucien@mediadier.nl)
--   🧠  I'm learning VueJs and Inertia
+-   ✉️  You can contact me at [info@freshcode.dev](mailto:info@freshcode.dev)
 
 ### Skills
 
