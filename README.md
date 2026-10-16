@@ -2,14 +2,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lucien Versendaal
 =========================================================================================================================================
 
-## TALL Stack Developer
+## Laravel Developer
 
 I'm a web developer, and big football fan from the Netherlands. Welcome to my github, your destination for innovative and robust web development solutions.
 With a specialization in Laravel, Livewire, AlpineJS, TailwindCSS, VueJs and Inertia I transform ideas into reality by creating dynamic and elegant web applications tailored to your specific needs.
 
 -   🌍  I'm based in Rotterdam
--   🖥️  See my portfolio at [GitHub](http://github.com/lucienversendaal)
+-   🖥️  See my portfolio at [GitHub](https://github.com/lucienversendaal)
 -   ✉️  You can contact me at [info@freshcode.dev](mailto:info@freshcode.dev)
+-   🖥️  Visit my site at [Freshcode.dev](https://freshcode.dev)
+-   🌭  Need a POS system for your Foodtruck? [FoodTruckPOS.nl](https://foodtruckpos.nl)
+-   🧾  Do you want to make invoices easily? [Freshinvoice.nl](https://freshinvoice.nl)
 
 ### Skills
 
